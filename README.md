@@ -56,3 +56,7 @@ pio run -e esp32dev_ota -t upload
 1. ESP32 mit Strom versorgen
 2. Mit dem WLAN **"Wetterstation"** verbinden (kein Passwort)
 3. Browser oeffnet automatisch die Seite (oder manuell `192.168.4.1`)
+
+## Lizenz
+
+MIT
